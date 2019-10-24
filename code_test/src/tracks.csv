@@ -1,0 +1,5 @@
+﻿ID,Title,Version,Artist,ISRC,P Line,Aliases,Contract
+Leave blank if a new Track,,,,"Any dashes, spaces or other characters will be stripped out on import",,Separate multiple alises using a semi-colon (;),Should match the contract name exactly
+,Track 1,Version 1,Artist 1,ISRC1,P Line 1,aliases1;aliases2,Contract 1
+,Track 2,Version 2,Artist 2,ISRC2,P Line 2,aliases11 ; aliases22,Contract 2
+,Track 3,Version 3,Artist 3,"; ,. ISRC3 - /. ; ",P Line 3,aliases111 ; aliases222,
