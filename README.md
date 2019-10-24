@@ -22,7 +22,7 @@ You should create a process, that does the following -
 
 ## Prerequisites
 
-If you want to work with the project fully, please ensure you have *node.js*, *mocha*, *npm* installed.
+If you want to work with the project fully, please ensure you have *node.js*, *mocha*, *npm* as well as *mongo* with *mongoose* installed.
 
 The `node index.js` command will run the app, retrieve data from the .csv file and push it to the mongodb accordingly.
 
